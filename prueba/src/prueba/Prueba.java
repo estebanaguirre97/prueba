@@ -6,7 +6,7 @@
 package prueba;
 
 /**
- * pus mastah AGAIN
+ * pus mastah AGAIN prueba
  * @author esteban
  */
 public class Prueba {
